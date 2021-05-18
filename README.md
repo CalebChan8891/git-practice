@@ -2,7 +2,7 @@
 
 ## Commands used
 
-- git init: Create a repo
+- git init: Create a new git repo
 - git status: Compare working directory, staging area, and current branch
 - git add: Add changes from working directory to staging area
 - git commit: Commit changes from staging area to current branch
